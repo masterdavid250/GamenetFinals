@@ -2156,7 +2156,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timerText: {fileID: 0}
-  timeToStartRace: 2
+  timeToStartRace: 5
 --- !u!54 &548710404982705906
 Rigidbody:
   m_ObjectHideFlags: 0
